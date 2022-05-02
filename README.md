@@ -14,9 +14,13 @@ When I'm not working I enjoy camping, cooking, traveling, and a glass of Macalla
 
 Pre-COVID, you'd probably find me at conferences, customer meetings, user groups, and other events around the world 🌏. These days it's via a camera 📹, mic 🎙, and teleprompter (I have ADHD and it helps to write my thoughts out before I start talking).
 
+![Jldeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jldeen&theme=dracula&show_icons=true)
+
+
 ## References:
 
 - [YouTube](https://youtube.com/c/jessicadeen20)
 - [TikTok](https://www.tiktok.com/@jldeen)
 - [Resume](https://resume.jessicadeen.com)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/jldeen?logo=twitter&style=plastic)](https://twitter.com/intent/follow?screen_name=jldeen)
   
