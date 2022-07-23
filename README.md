@@ -1,6 +1,6 @@
 # Hey, I'm Jessica 🥃
 
-I'm a Principal Content Engineer at [Microsoft](https://microsoft.com) specializing in DevOps, Linux, Containers, and Open Source.
+I'm a [TBA] at [TBA](https://jessicadeen.com) specializing in DevOps, Linux, Containers, and Open Source.
 
 I reside in Northern California with my wife, kids, and puppies.
 
