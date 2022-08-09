@@ -1,6 +1,6 @@
 # Hey, I'm Jessica 🥃
 
-I'm a [TBA] at [TBA](https://jessicadeen.com) specializing in DevOps, Linux, Containers, and Open Source.
+I'm currently a Principal Developer Advocate at [AWS](https://aws.amazon.com/) focusing on [Elastic Container Service](https://aws.amazon.com/ecs/) AKA Native Containers.
 
 I reside in Northern California with my wife, kids, and puppies.
 
@@ -8,7 +8,7 @@ I've worked in tech for over 15 years. I began my career in operations (the arti
 
 I do not have a college degree, I learned (and still do) by doing; growing up in the MySpace / Xanga era helped hone [at the very least] my CSS and HTML skills. I'm very visual, but also learn kinesthetically, and it's how I still operate, learn, and skill up today.
 
-I've worked for Microsoft in a variety of capacitities for over a decade. I began as a vendor in April of 2009, and became a full time employee in March of 2016. Prior to Microsoft, I worked as a Systems Integration Engineer for a medical device company. At said company, I was hired because of my connection to Microsoft (I was a Microsoft MVP at the time), but I was the only MVP who's award focus was Windows and Devices, but worked full time as a Linux Systems Administrator and used macOS. I've also owned my own boutique consulting firm, catering to SMB and high profile clients across the US. 
+I previously worked for Microsoft in a variety of capacitities for over a decade. I began as a vendor in April of 2009, and became a full time employee in March of 2016, and left in 2022 to join AWS. Prior to Microsoft, I worked as a Systems Integration Engineer for a medical device company. At said company, I was hired because of my connection to Microsoft (I was a Microsoft MVP at the time), but I was the only MVP who's award focus was Windows and Devices, but worked full time as a Linux Systems Administrator and used macOS. I've also owned my own boutique consulting firm, catering to SMB and high profile clients across the US. 
 
 When I'm not working I enjoy camping, cooking, traveling, and a glass of Macallan 18 neat. 
 
