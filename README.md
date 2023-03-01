@@ -1,6 +1,6 @@
 # Hey, I'm Jessica 🥃
 
-I'm currently a Principal Developer Advocate at [AWS](https://aws.amazon.com/) focusing on [Elastic Container Service](https://aws.amazon.com/ecs/) AKA Native Containers.
+I'm currently a Principal Developer Advocate at [AWS](https://aws.amazon.com/) focusing on [Elastic Container Service](https://aws.amazon.com/ecs/).
 
 I reside in Northern California with my wife, kids, and puppies.
 
